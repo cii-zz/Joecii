@@ -3,7 +3,7 @@
   "repotype": "purekfdextended",
   "name": "Joecii",
   "description": "Only for test kfd",
-  "icon": "https://github.com/cii-zz/Joecii/blob/main/Cover99036245.jpg", 
+  "icon": "https://raw.githubusercontent.com/cii-zz/Joecii/main/Cover99036245.jpg", 
   "packages": [
     {
       "name": "1x2",
@@ -13,12 +13,12 @@
       "long_description": "This tweak creates a 1x2 module for the control center.",
       "version": "1.0",
       "category": "Tweaks",
-      "icon": "https://github.com/cii-zz/Joecii/blob/main/Cover99036245.jpg",
-      "path": "https://github.com/cii-zz/Joecii/blob/main/1x2.misaka", 
+      "icon": "https://raw.githubusercontent.com/cii-zz/Joecii/main/Cover99036245.jpg",
+      "path": "https://raw.githubusercontent.com/cii-zz/Joecii/main/1x2.misaka", 
       "screenshots": [
-        "https://github.com/cii-zz/Joecii/blob/main/screenshots/1x2_screenshot1.png"
+        "https://raw.githubusercontent.com/cii-zz/Joecii/main/screenshots/1x2_screenshot1.png"
       ],
-      "banner": "https://github.com/cii-zz/Joecii/blob/main/banner.jpg"
+      "banner": "https://raw.githubusercontent.com/cii-zz/Joecii/main/banner.jpg"
     }
   ]
 }
