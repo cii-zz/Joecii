@@ -1,0 +1,15 @@
+{
+  "name": "Joecii",
+  "description": "Only for test kfd",
+  "maintainer": "Joecii",
+  "tweaks": [
+    {
+      "name": "1x2",
+      "bundle": "com.joecii.centercontrol",
+      "version": "1.0",
+      "description": "make module 1x2",
+      "iconURL": "https://raw.githubusercontent.com/cii-zz/Joecii/main/Cover99036245.jpg",
+      "packageURL": "https://raw.githubusercontent.com/cii-zz/Joecii/main/1x2.misaka"
+    }
+  ]
+}
